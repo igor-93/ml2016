@@ -1,7 +1,7 @@
-##Team name: synapse
+## Team name: synapse
 ## Members: Igor Pesic, Shobhit Jain, Dinesh Acharya
 
-Description:
+### Description:
 
 1. Segmentation:
 	In this step we segment the brain in 2 parts: gray and white matter.
