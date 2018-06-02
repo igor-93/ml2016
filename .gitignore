@@ -1,1 +1,7 @@
+# ignore image files
 *.nii
+# ignore npy files
+*.npy
+*.mtx
+# ignore binaries
+*.pyc
